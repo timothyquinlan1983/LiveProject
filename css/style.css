@@ -1,0 +1,51 @@
+/* color palette #FF71CE (pink), #01CDFE (blue), #05FFA1 (green), #B967FF (purple), #FFFB96 (yellow) */ 
+
+html {
+    background-color: #FFFB96;
+}
+
+header img {
+    height: 50px;
+    width: 50px;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+article img {
+    height: 250px;
+    width: 250px;
+}
+
+article {
+    margin-top: 4em;
+    margin-bottom: 4em;
+}
+
+.main-nav {
+    background-color: #FF71CE;
+    border: thick;
+    border-color: #05FFA1;
+    border-style: solid;
+    line-height: .5em;
+    font-size: 1.5em;
+    padding: 1em;
+    text-align: center;
+}
+
+.review {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5em;
+}
+
+.circle {
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    padding: 10px;
+    background-color: #01CDFE;
+    border: 3px solid #000;
+    color: #B967FF;
+    text-align: center;
+    font-size: 4em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
